@@ -1,1 +1,2 @@
-# odin-recipes this is for Odin.
+# odin-recipes 
+Cause Odin's hungry, too.
